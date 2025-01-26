@@ -1,0 +1,25 @@
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env/
+.venv
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+My_Car_Showroom/chatbot/agents/credentials.json
+# Ignore Django secret key
+*.env
+My_Car_Showroom/chatbot/agents/token.json
+# Ignore database files
+*./db.sqlite3
+My_Car_Showroom/token.json
+# Ignore IDE-specific files
+*.idea/
+*.vscode/
+My_Car_Showroom/chatbot/agents/credentials.json
+My_Car_Showroom/chatbot/agents/token.json
+My_Car_Showroom/token.json
+My_Car_Showroom/db.sqlite3
+.env
