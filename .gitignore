@@ -22,4 +22,6 @@ My_Car_Showroom/chatbot/agents/credentials.json
 My_Car_Showroom/chatbot/agents/token.json
 My_Car_Showroom/token.json
 My_Car_Showroom/db.sqlite3
-.env
+.envchatbot/agents/credentials.json
+chatbot/agents/token.json
+token.json
