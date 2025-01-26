@@ -1,4 +1,5 @@
 # Car Showroom Chatbot
+![Chatbot Screenshot](chatbot.png)
 
 **Car Showroom** is an intelligent chatbot integrated with a web application built using Django. The chatbot is designed to assist users with various functionalities related to car showroom management. It supports advanced features like classification of queries, live transcription, and seamless interaction with backend services.
 
